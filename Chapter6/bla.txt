@@ -1,0 +1,3 @@
+Your length was: 8
+Your width was: 7
+The area is: 56
