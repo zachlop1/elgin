@@ -1,0 +1,4 @@
+The total amount of characters: 142
+The total amount of upper-case letters: 7
+The total amount of lower-case letters: 98
+The total amount of non-alphabet characters: 37

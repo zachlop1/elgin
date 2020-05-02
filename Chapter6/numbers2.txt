@@ -1,0 +1,2 @@
+The total amount of numbers: 32
+The total sum: 2079

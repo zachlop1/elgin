@@ -23,6 +23,6 @@ int main()
         cout << num1 << endl;
         count++;
    }
-     cout << "Total amount of numbers ion the file: " << count << endl;
+     cout << "Total amount of numbers in the file: " << count << endl;
         return 0;
 }
